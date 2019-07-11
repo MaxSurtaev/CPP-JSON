@@ -6,6 +6,10 @@ Extremely simple JSON C++ library.
 - fast and simple
 - C++11
 
+**Development branch status:**
+
+[![Build Status][travisDevBadge]][travisLink]
+
 This is a clone of [SimpleJSON](https://github.com/nbsdx/SimpleJSON)
 
 *For what*
