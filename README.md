@@ -1,7 +1,7 @@
 ***JSON***
 *A C++ JSON library*
 Extremely simple JSON C++ library.
-- No dependentcy, just STL
+- No dependency, just STL
 - No BOOST
 - fast and simple
 - C++11
@@ -16,7 +16,7 @@ This is a clone of [SimpleJSON](https://github.com/nbsdx/SimpleJSON)
 - load and dump serialisation
 - operator[]
 - foreach loop
-- move seamantic
+- move semantic
 
 *How to use in your code*
 [example.cpp](example.cpp)
