@@ -1,0 +1,6 @@
+---
+Language:        Cpp
+AccessModifierOffset: -2
+Standard:        Cpp11
+TabWidth:        4
+UseTab:          Never

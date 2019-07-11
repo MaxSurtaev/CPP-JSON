@@ -1,0 +1,4 @@
+.vscode/
+test/small_test
+example
+*.d
