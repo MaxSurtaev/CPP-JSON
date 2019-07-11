@@ -8,7 +8,7 @@ Extremely simple JSON C++ library.
 
 **Development branch status:**
 
-[![Build Status][travisDevBadge]][travisLink]
+[![Build Status](https://travis-ci.org/MaxSurtaev/CPP-JSON.svg?branch=master)](https://travis-ci.org/MaxSurtaev/CPP-JSON)
 
 This is a clone of [SimpleJSON](https://github.com/nbsdx/SimpleJSON)
 
